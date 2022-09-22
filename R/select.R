@@ -16,5 +16,4 @@ select2<-function(df, ind){
 }
 
 
-
 ?select2
